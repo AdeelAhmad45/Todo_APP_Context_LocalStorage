@@ -2,13 +2,14 @@
 
 # To-Do App with Context API and Local Storage
 
-This is a simple To-Do List application built with React that uses the Context API for state management and local storage to persist data. It allows users to add, delete, and mark tasks as complete.
+This is a simple To-Do List application built with React that uses the Context API for state management and local storage to persist data. It allows users to add, delete, edit and mark tasks as complete.
 
 ## Features
 
-- Add tasks with a title and optional description.
+- Add tasks.
 - Mark tasks as completed.
 - Delete tasks.
+- Edit tasks.
 - Data persistence using local storage.
 - Responsive design for various screen sizes.
 
